@@ -1,0 +1,15 @@
+paris
+marseille
+reims
+lyon
+strasbourg
+vatry
+toulouse
+nice
+nantes
+bordeaux
+lille
+rennes
+toulon
+grenoble
+dijon

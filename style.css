@@ -1,0 +1,58 @@
+body, html {
+    margin:0;padding:0;background-color: grey;  
+}
+
+#map {
+    background: url(./img/France_blank.svg) no-repeat;
+    background-size: contain;
+    height: 900px;
+    width:900px;
+    position:relative;
+  }
+
+  #information {
+      position: absolute;
+      right:0px;
+      top:0px;
+      background-color: black;
+      width: 300px;
+      height: 200px;
+      color:white;
+  }
+
+button {
+    position: absolute;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align:center;
+    background-color: black;
+    color:white;
+    font-size:16px;
+    width:70px;
+    height:70px;
+    border-radius: 50%;
+}
+
+.button:hover{
+    box-shadow: 0 0 0px 200px rgba(0,150,150,0.55);
+}
+
+p{
+    margin:0 0;
+}
+.boxesparis{top:27%;left:47%;}
+.boxesmarseille{top:76%;left:67%;}
+.boxesreims{top:24%;left:62%;}
+.boxeslyon{top:57%;left:65%;}
+.boxesstrasbourg{top:32%;left:82%;}
+.boxesvatry{top:29%;left:57%;}
+.boxestoulouse{top:74%;left:43%;}
+.boxesnice{top:75%;left:79%;}
+.boxesnantes{top:43%;left:28%;}
+.boxesbordeaux{top:63%;left:32%;}
+.boxeslille{top:11%;left:54%;}
+.boxesrennes{top:35%;left:25%;}
+.boxestoulon{top:79%;left:73%;}
+.boxesgrenoble{top:63%;left:71%;}
+.boxesdijon{top:44%;left:67%;}
