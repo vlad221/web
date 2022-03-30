@@ -1,4 +1,4 @@
 # web
 ProjetOP
 
-This project is sample test about pathfinding and goap integration.
+This project is a sample test about pathfinding and goap integration.
